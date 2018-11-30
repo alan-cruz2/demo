@@ -23,4 +23,4 @@ Just start a server, for example:
 
 
 **Note**
-The build in the repo has be specifically modified to work with github pages. The output from the build command will be different. Please proceed with caution when pushing a new build, as it requires some addition modifications.
+The build in the repo has been specifically modified to work with github pages. The output from the build command will be different. Please proceed with caution when pushing a new build, as it requires some addition modifications.
