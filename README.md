@@ -19,9 +19,7 @@ Github pages: [Demo using pages](https://alan-cruz2.github.io/demo/build/index.h
 
 Just start a server, for example:
 
-- From root -- `cd build && python -m SimpleHTTPServer`
-
-**must have python** :)
+- From root -- `cd build && python -m SimpleHTTPServer` this example requires python.
 
 
 **Note**
