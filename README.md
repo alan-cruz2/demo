@@ -15,6 +15,14 @@ Github pages: [Demo using pages](https://alan-cruz2.github.io/demo/build/index.h
 
 - `npm run build`
 
+### Want to see what was built?
+
+Just start a server, for example:
+
+- From root -- `cd build && python -m SimpleHTTPServer`
+
+** must have python :) **
+
 
 ** Note **
 The build in the repo has be specifically modified to work with github pages. The output from the build command will be different. Please proceed with caution when pushing a new build, as it requires some addition modifications.
