@@ -1,0 +1,28 @@
+node_modules
+.npm-cache
+node_modules/
+src/styles/
+.sass-cache
+npm-debug.log
+build
+build/
+.idea
+.idea/
+
+#git hook file
+.intuitgithookrc
+
+# This file is copied over from the plugin-build node module so that linting settings are centralized
+.jshintrc
+
+#IDE Specific files
+
+#SublimeText
+*.sublime-project
+*.sublime-workspace
+
+#Eclipse
+.project
+
+#OSX
+.DS_Store
